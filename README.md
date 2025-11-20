@@ -6,8 +6,7 @@
 
 </div>
 
-<!-- <hr color="#4D8CFF" size="4"> -->
-<span style="color:#4D8CFF;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+---
 
 
  <div align="center">
@@ -16,7 +15,7 @@
 
 </div> 
 
-<span style="color:#4D8CFF;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+---
 
 ## <div align="center">⚡ **ABOUT ME** ⚡</div>
 
@@ -29,7 +28,7 @@
 
 </p>
 
-<span style="color:#4D8CFF;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+--- 
 
 ## <div align="center">💠 **CONNECT WITH ME** 💠</div>
 
@@ -45,7 +44,7 @@
   </a>
 </p>
 
-<span style="color:#4D8CFF;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+---
 
 ## <div align="center">🌐 **TECH STACK** 🌐</div>
 
@@ -53,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,bootstrap,git,vscode,figma&theme=dark" />
 </p>
 
-<span style="color:#4D8CFF;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+---
 
 ## <div align="center">💎 **GITHUB STATS** 💎</div>
 
@@ -65,7 +64,7 @@
 
 </div>
 
-<span style="color:#4D8CFF;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+---
 
 ## <div align="center">🌌 **CONTRIBUTION GRAPH** 🌌</div>
 
@@ -73,14 +72,14 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuntahaSiraj&bg_color=000000&color=8A2BE2&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
-<span style="color:#4D8CFF;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+---
 
 ## <div align="center">⚔️ **CYBERPUNK QUOTE** ⚔️</div>
 
 > **“Code is the weapon. Creativity is the power.”**  
 > — *Muntaha Siraj*
-> 
-<span style="color:#4D8CFF;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+>
+---
 
 
 <div align="center">
